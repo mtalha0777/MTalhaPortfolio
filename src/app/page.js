@@ -129,7 +129,7 @@ function Home() {
                 >
                  
                   <a
-                    href="/Muhammad_Talha_CV.pdf"
+                    href="/Muhammad-Talha-CV.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`flex items-center gap-2 px-6 py-3 rounded-lg font-semibold transition-all no-underline ${
