@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Muhammad Talha Portfolio",
-  description: "Muhammad Talha's Personal Portfolio",
+   title: "Muhammad Talha | Portfolio",
+  description: "The professional portfolio of Muhammad Talha, a Full-Stack Developer specializing in React and Node.js.",
 };
 
 export default function RootLayout({ children }) {
